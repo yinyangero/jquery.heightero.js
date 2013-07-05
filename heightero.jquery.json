@@ -1,0 +1,34 @@
+{
+    "name": "heightero",
+    "title": "jQuery Heightero",
+    "description": "Plugin for jQuery to automatically size height of html elements in a fixed container.",
+    "keywords": [
+        "height",
+        "layout"
+    ],
+    "version": "1.0",
+    "author": {
+        "name": "Jerome F. Agpaoa",
+        "url": "https://github.com/yinyangero/jquery.heightero.js/blob/master/AUTHORS.txt"
+    },
+    "maintainers": [
+    {
+        "name": "Jerome F. Agpaoa",
+        "email": "yinyangero@gmail.com",
+        "url": "www.lifebite.net"
+    }
+    ],
+    "licenses": [
+    {
+        "type": "MIT",
+        "url": "https://github.com/yinyangero/jquery.heightero.js/blob/master/MIT-LICENSE.txt"
+    }
+    ],
+    "bugs": "https://github.com/yinyangero/jquery.heightero.js/issues",
+    "homepage": "https://github.com/yinyangero/jquery.heightero.js",
+    "docs": "https://github.com/yinyangero/jquery.heightero.js/blob/master/README.md",
+    "download": "https://github.com/yinyangero/jquery.heightero.js/archive/master.zip",
+    "dependencies": {
+        "jquery": ">=1.5"
+    }
+}
