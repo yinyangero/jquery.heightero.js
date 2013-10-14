@@ -2,9 +2,16 @@ jquery.heightero.js
 ===================
 
 V 1.0 
-2013-07-05
+2013-10-14
 
 Plugin for jQuery to automatically size height of html elements in a fixed container.
+
+DEMO:
+
+Check this js fiddle link for demonstration:
+
+http://jsfiddle.net/65wGZ/
+
 
 USAGE:
 
